@@ -1,0 +1,25 @@
+{
+  "mainMenu": {
+    "state": "No menu principal",
+    "largeImageText": "Main Menu"
+  },
+  "loadingGame": {
+    "state": "Carregando o jogo",
+    "largeImageText": "Minecraft"
+  },
+  "inGame": {
+    "multiPlayer": {
+      "largeImageText": {
+        "unknown": "Servidor desconhecido",
+        "ip": "IP: %s"
+      },
+      "state": "Jogando em um servidor",
+      "details": "IGN: %s"
+    },
+    "singlePlayer": {
+      "state": "Singleplayer",
+      "largeImageText": "World: %s",
+      "details": "Username: %s"
+    }
+  }
+}

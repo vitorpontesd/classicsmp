@@ -5,7 +5,8 @@
   },
   "loadingGame": {
     "state": "Carregando o jogo",
-    "largeImageText": "Minecraft"
+    "largeImageText": "Minecraft",
+    "details": "With %d mods"
   },
   "inGame": {
     "multiPlayer": {

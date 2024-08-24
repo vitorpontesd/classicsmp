@@ -1,0 +1,13 @@
+filename = 'industrialcraft-2-2.2.827-experimental.jar'
+name = 'Industrial Craft'
+side = 'both'
+
+[download]
+hash = 'a2a24f98eaab2c4a8fa2583f66590ad8cdeea405'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2353971
+project-id = 242638

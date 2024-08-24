@@ -1,0 +1,13 @@
+filename = 'Mekanism-Community-Edition-1.7.10-9.10.37-Core.jar'
+name = 'Mekanism Community Edition'
+side = 'both'
+
+[download]
+hash = 'ecbafb8901e430cc143a0af0ae94cfb85e40c232'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5346320
+project-id = 399904

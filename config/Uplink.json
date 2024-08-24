@@ -1,0 +1,10 @@
+{
+  "clientId": "1269382163128909938",
+  "smallDataUid": "0",
+  "hideUnknownIPs": true,
+  "displayUrls": {
+    "gui": "https://raw.githubusercontent.com/vitorpontesd/classicsmp/data/discordrp/br.json",
+    "server": "https://raw.githubusercontent.com/vitorpontesd/classicsmp/data/discordrp/servers.json",
+    "small": "https://raw.githubusercontent.com/vitorpontesd/classicsmp/data/discordrp/small.json"
+  }
+}

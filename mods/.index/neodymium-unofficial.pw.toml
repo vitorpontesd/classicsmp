@@ -1,0 +1,13 @@
+filename = 'neodymium-mc1.7.10-0.3.3-unofficial.jar'
+name = 'Neodymium Unofficial'
+side = 'both'
+
+[download]
+hash = '017a4d29a83466417e2b3f0f9a507a30b95d1c02'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5467638
+project-id = 1031274

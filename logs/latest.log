@@ -1,0 +1,175 @@
+[20:21:02] [main/INFO]: Setting user: vitorp
+[20:21:03] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:21:04] [Client thread/INFO]: Reloading ResourceManager: Default, CustomResources, FMLFileResourcePack:Better Loading Screen, CustomOverridingResources
+[20:21:04] [Client thread/INFO]: Reloading ResourceManager: Default, CustomResources, FMLFileResourcePack:Better Loading Screen, CustomOverridingResources
+[20:21:05] [Client thread/INFO]: Reloading ResourceManager: Default, CustomResources, FMLFileResourcePack:Better Loading Screen, CustomOverridingResources
+[20:21:13] [Client thread/INFO]: Reloading ResourceManager: Default, CustomResources, FMLFileResourcePack:Better Loading Screen, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NotEnoughItems, FMLFileResourcePack:UniMixins, FMLFileResourcePack:UniMixins: Mixin (UniMix), FMLFileResourcePack:UniMixins: Compatibility, FMLFileResourcePack:UniMixins: Mixingasm, FMLFileResourcePack:UniMixins: SpongeMixins, FMLFileResourcePack:UniMixins: MixinBooterLegacy, FMLFileResourcePack:UniMixins: GasStation, FMLFileResourcePack:UniMixins: GTNHMixins, FMLFileResourcePack:UniMixins: MixinExtras, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:The Aether, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Arcane Engineering, FMLFileResourcePack:ArchaicFix, FMLFileResourcePack:Avaritia, FMLFileResourcePack:Baubles, FMLFileResourcePack:Baubles Expanded, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Loading Screen, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Botania, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:BugTorch, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:ChunkAPI, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CoreTweaks, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Electro-Magic Tools, FMLFileResourcePack:enderbatteries, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnderTanks, FMLFileResourcePack:EntityCulling, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FalsePatternLib, FMLFileResourcePack:FalseTweaks, FMLFileResourcePack:Flying Cullers, FMLFileResourcePack:FoamFix, FMLFileResourcePack:Forestry, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Advanced Generators, FMLFileResourcePack:Gravestone, FMLFileResourcePack:GTNH Lib, FMLFileResourcePack:Hodgepodge, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Immersive Integration, IC2 resource pack injected by Hodgepodge, FMLFileResourcePack:Iron Chests, FMLFileResourcePack:Iron Furnaces, FMLFileResourcePack:It's the little things, FMLFileResourcePack:Just Enough Calculation, FMLFileResourcePack:Keyboard Wizard, FMLFileResourcePack:LaunchGUI, FMLFileResourcePack:Leaf Culling, FMLFileResourcePack:LegacyFixes, FMLFileResourcePack:Legacy Minecraft Kotlin, FMLFileResourcePack:Loading Progress Bar, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Magical Crops: Core, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Mantle, FMLFileResourcePack:Minecraft Comes Alive, FMLFileResourcePack:Mekanism Community Edition, FMLFileResourcePack:MekanismGenerators Community Edition, FMLFileResourcePack:MekanismTools Community Edition, FMLFileResourcePack:ModernControlling, FMLFileResourcePack:ModernKeyBinding, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature's Compass, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Custom Diagram, FMLFileResourcePack:NEIlootbags, FMLFileResourcePack:Neodymium Unofficial, FMLFileResourcePack:Nether Portal Fix, FMLFileResourcePack:NotEnoughEnergistics, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:NotEnoughThaumcraftTabs, FMLFileResourcePack:Not Enough Wands, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:OreSpawn, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:RadixCore, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:RFTools, FMLFileResourcePack:Schematica, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:SkinBridge Helper, FMLFileResourcePack:SkinPort, FMLFileResourcePack:Smooth Font, FMLFileResourcePack:Squidless, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:Thaumcraft NEI Additions, FMLFileResourcePack:TC Node Tracker, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft Mob Aspects, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Expanse, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:TileEntity Reset Fix, FMLFileResourcePack:Tinker I/O, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:UniDict, FMLFileResourcePack:Uplink, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:WallpaperCraftLegacy, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Waystones, FMLFileResourcePack:AE2 Wireless Crafting Terminal, FMLFileResourcePack:Witchery, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, FMLFileResourcePack:Ztones
+[20:21:13] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: ThaumcraftMobAspects in C:\Users\vitor\AppData\Roaming\PrismLauncher\instances\ClassicSMP 1.0(1)\.minecraft\mods\ThaumcraftMobAspects-1.1.2-GTNH.jar
+[20:21:13] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: ThaumcraftMobAspects in C:\Users\vitor\AppData\Roaming\PrismLauncher\instances\ClassicSMP 1.0(1)\.minecraft\mods\ThaumcraftMobAspects-1.1.2-GTNH.jar
+[20:21:13] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: ThaumcraftMobAspects in C:\Users\vitor\AppData\Roaming\PrismLauncher\instances\ClassicSMP 1.0(1)\.minecraft\mods\ThaumcraftMobAspects-1.1.2-GTNH.jar
+[20:21:47] [Sound Library Loader/INFO]: Sound engine started
+[20:21:49] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:21:50] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:21:52] [Client thread/INFO]: Created: 16x16 textures/revolvers-atlas
+[20:22:13] [Client thread/INFO]: Reloading ResourceManager: Default, CustomResources, FMLFileResourcePack:Better Loading Screen, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:NotEnoughItems, FMLFileResourcePack:UniMixins, FMLFileResourcePack:UniMixins: Mixin (UniMix), FMLFileResourcePack:UniMixins: Compatibility, FMLFileResourcePack:UniMixins: Mixingasm, FMLFileResourcePack:UniMixins: SpongeMixins, FMLFileResourcePack:UniMixins: MixinBooterLegacy, FMLFileResourcePack:UniMixins: GasStation, FMLFileResourcePack:UniMixins: GTNHMixins, FMLFileResourcePack:UniMixins: MixinExtras, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:The Aether, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:Anti Id Conflict, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Arcane Engineering, FMLFileResourcePack:ArchaicFix, FMLFileResourcePack:Avaritia, FMLFileResourcePack:Baubles, FMLFileResourcePack:Baubles Expanded, FMLFileResourcePack:BD Lib, FMLFileResourcePack:Better Loading Screen, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Botania, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:BugTorch, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisel Tones, FMLFileResourcePack:ChunkAPI, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:CoreTweaks, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:DrZhark's CustomSpawner, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:DrZhark's Mo'Creatures Mod, FMLFileResourcePack:Electro-Magic Tools, FMLFileResourcePack:enderbatteries, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:EnderTanks, FMLFileResourcePack:EntityCulling, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FalsePatternLib, FMLFileResourcePack:FalseTweaks, FMLFileResourcePack:§cF§6l§ey§ai§bn§9g §fCu§7lle§8rs§r, FMLFileResourcePack:FoamFix, FMLFileResourcePack:Forestry, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Advanced Generators, FMLFileResourcePack:Gravestone, FMLFileResourcePack:GTNH Lib, FMLFileResourcePack:Hodgepodge, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Immersive Integration, IC2 resource pack injected by Hodgepodge, FMLFileResourcePack:Iron Chests, FMLFileResourcePack:Iron Furnaces, FMLFileResourcePack:It's the little things, FMLFileResourcePack:Just Enough Calculation, FMLFileResourcePack:Keyboard Wizard, FMLFileResourcePack:LaunchGUI, FMLFileResourcePack:Leaf Culling, FMLFileResourcePack:LegacyFixes, FMLFileResourcePack:Legacy Minecraft Kotlin, FMLFileResourcePack:Loading Progress Bar, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:Magical Crops: Core, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Mantle, FMLFileResourcePack:Minecraft Comes Alive, FMLFileResourcePack:Mekanism Community Edition, FMLFileResourcePack:MekanismGenerators Community Edition, FMLFileResourcePack:MekanismTools Community Edition, FMLFileResourcePack:ModernControlling, FMLFileResourcePack:ModernKeyBinding, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Natura, FMLFileResourcePack:Nature's Compass, FMLFileResourcePack:NEI Addons: Forestry, FMLFileResourcePack:NEI Addons: Developer Tools, FMLFileResourcePack:NEI Addons: Applied Energistics 2, FMLFileResourcePack:NEI Addons, FMLFileResourcePack:NEI Addons: Botany, FMLFileResourcePack:NEI Addons: Ex Nihilo, FMLFileResourcePack:NEI Addons: Crafting Tables, FMLFileResourcePack:NEI Custom Diagram, FMLFileResourcePack:NEIlootbags, FMLFileResourcePack:Neodymium Unofficial, FMLFileResourcePack:Nether Portal Fix, FMLFileResourcePack:NotEnoughEnergistics, FMLFileResourcePack:Not Enough Resources, FMLFileResourcePack:NotEnoughThaumcraftTabs, FMLFileResourcePack:Not Enough Wands, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:OreSpawn, FMLFileResourcePack:PortalGun, FMLFileResourcePack:Power Converters 3, FMLFileResourcePack:RadixCore, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:RFTools, FMLFileResourcePack:Schematica, FMLFileResourcePack:ShetiPhian-Core, FMLFileResourcePack:SkinBridge Helper, FMLFileResourcePack:SkinPort, FMLFileResourcePack:Smooth Font, FMLFileResourcePack:Squidless, FMLFileResourcePack:TC Inventory Scanning, FMLFileResourcePack:Thaumcraft NEI Additions, FMLFileResourcePack:TC Node Tracker, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thaumcraft Mob Aspects, FMLFileResourcePack:Thaumcraft NEI Plugin, FMLFileResourcePack:Thaumic Energistics, FMLFileResourcePack:Thaumic Expanse, FMLFileResourcePack:Thaumic Tinkerer, FMLFileResourcePack:TileEntity Reset Fix, FMLFileResourcePack:Tinker I/O, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:UniDict, FMLFileResourcePack:Uplink, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WAILA Plugins, FMLFileResourcePack:WallpaperCraftLegacy, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Waystones, FMLFileResourcePack:AE2 Wireless Crafting Terminal, FMLFileResourcePack:Witchery, FMLFileResourcePack:Xaero's Minimap, FMLFileResourcePack:Xaero's World Map, FMLFileResourcePack:Ztones, PortalGunSounds.pak, CustomResources, Avaritia_Delegate_Pack, Avaritia_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, XU_Delegate_Pack, FMLFileResourcePack:Carpenter's Blocks Cached Resources, resources, CustomOverridingResources
+[20:22:13] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: ThaumcraftMobAspects in C:\Users\vitor\AppData\Roaming\PrismLauncher\instances\ClassicSMP 1.0(1)\.minecraft\mods\ThaumcraftMobAspects-1.1.2-GTNH.jar
+[20:22:13] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: ThaumcraftMobAspects in C:\Users\vitor\AppData\Roaming\PrismLauncher\instances\ClassicSMP 1.0(1)\.minecraft\mods\ThaumcraftMobAspects-1.1.2-GTNH.jar
+[20:22:13] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: ThaumcraftMobAspects in C:\Users\vitor\AppData\Roaming\PrismLauncher\instances\ClassicSMP 1.0(1)\.minecraft\mods\ThaumcraftMobAspects-1.1.2-GTNH.jar
+[20:22:20] [Client thread/ERROR]: Using missing texture, unable to load magicalcrops:textures/blocks/Crop_S3.png, java.io.FileNotFoundException
+[20:22:21] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/blocks/repairer.png, java.io.FileNotFoundException
+[20:22:21] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1585_null.png, java.io.FileNotFoundException
+[20:22:21] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2202_proxyBlock.png, java.io.FileNotFoundException
+[20:22:21] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1691_EMT.machine.png, java.io.FileNotFoundException
+[20:22:21] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/TConIntegration.bedrock.png, java.io.FileNotFoundException
+[20:22:22] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_980_bookshelf.png, java.io.FileNotFoundException
+[20:22:22] [Client thread/ERROR]: Using missing texture, unable to load appliedenergistics2:textures/blocks/BlockSingularityCraftingStorage.png, java.io.FileNotFoundException
+[20:22:22] [Client thread/ERROR]: Using missing texture, unable to load appliedenergistics2:textures/blocks/BlockAdvancedCraftingStorage.png, java.io.FileNotFoundException
+[20:22:22] [Client thread/ERROR]: Using missing texture, unable to load immersiveengineering:textures/blocks/metal2_skycrateDispenser.png, java.io.FileNotFoundException
+[20:22:22] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_block_2472_waystones:textures/blocks/waystone.png, java.io.FileNotFoundException
+[20:22:22] [Client thread/ERROR]: Using missing texture, unable to load magicalcrops:textures/blocks/Crop_3.png, java.io.FileNotFoundException
+[20:22:22] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1692_EMT.essentia.png, java.io.FileNotFoundException
+[20:22:23] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/blocks/magnet.png, java.io.FileNotFoundException
+[20:22:23] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_2681_powerconverters.conduit.png, java.io.FileNotFoundException
+[20:22:23] [Client thread/ERROR]: Using missing texture, unable to load botania:textures/blocks/alt/clayconiaChibi.png, java.io.FileNotFoundException
+[20:22:24] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1885_blockLight.png, java.io.FileNotFoundException
+[20:22:24] [Client thread/ERROR]: Using missing texture, unable to load appliedenergistics2:textures/blocks/BlockAdvancedCraftingUnit.png, java.io.FileNotFoundException
+[20:22:24] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[20:22:24] [Client thread/ERROR]: Using missing texture, unable to load immersiveengineering:textures/revolvers/revolver_tesla.png, java.io.FileNotFoundException
+[20:22:24] [Client thread/ERROR]: Using missing texture, unable to load immersiveengineering:textures/revolvers/revolver_rose.png, java.io.FileNotFoundException
+[20:22:24] [Client thread/INFO]: Created: 1024x1024 textures/revolvers-atlas
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6873_focusRecall.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_4458_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/ichorPickGem.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/mobAspect.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6875_focusTelekinesis.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6852_focusEnderChest.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6846_focusXPDrain.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/ichorShovelGem.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load draconicevolution:textures/items/chaosFragment.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_4475_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6879_focusShadowbeam.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_4897_decowand.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/ichorSwordGem.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load ttinkerer:textures/items/ichorAxeGem.png, java.io.FileNotFoundException
+[20:22:26] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6850_focusDeflect.png, java.io.FileNotFoundException
+[20:22:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6866_focusSmelt.png, java.io.FileNotFoundException
+[20:22:27] [Client thread/ERROR]: Using missing texture, unable to load thaumicenergistics:textures/items/storage.component.singularity.png, java.io.FileNotFoundException
+[20:22:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_BLOCK_534_gaiaHeadBlock_skeleton.png, java.io.FileNotFoundException
+[20:22:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6839_itemAspect.png, java.io.FileNotFoundException
+[20:22:27] [Client thread/ERROR]: Using missing texture, unable to load thaumicenergistics:textures/items/storage.component.quantum.png, java.io.FileNotFoundException
+[20:22:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6884_focusHeal.png, java.io.FileNotFoundException
+[20:22:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6854_focusDislocation.png, java.io.FileNotFoundException
+[20:22:27] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_6883_focusFlight.png, java.io.FileNotFoundException
+[20:22:27] [Client thread/INFO]: Created: 2048x2048 textures/items-atlas
+[20:22:28] [Sound Library Loader/INFO]: Sound engine started
+[20:22:42] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:22:42] [Server thread/INFO]: Generating keypair
+[20:23:22] [Server thread/INFO]: Preparing start region for level 0
+[20:23:25] [Server thread/INFO]: Changing view distance to 8, from 10
+[20:23:26] [Server thread/WARN]: Invalid statistic in C:\Users\vitor\AppData\Roaming\PrismLauncher\instances\ClassicSMP 1.0(1)\.minecraft\saves\New World\stats\990d4cb2-2f47-43ae-bfc2-19c7c8dd6013.json: Don't know what stat.useItem.autogen.OreSpawn:OreSpawn_UltimateAxe is
+[20:23:26] [Server thread/WARN]: Invalid statistic in C:\Users\vitor\AppData\Roaming\PrismLauncher\instances\ClassicSMP 1.0(1)\.minecraft\saves\New World\stats\990d4cb2-2f47-43ae-bfc2-19c7c8dd6013.json: Don't know what stat.useItem.autogen.OreSpawn:OreSpawn_Bertha is
+[20:23:26] [Server thread/INFO]: vitorp[local:E:dbcbe00e] logged in with entity id 16171 at (-956.4332041342687, 69.0, 2070.8198062872243)
+[20:23:26] [Server thread/INFO]: vitorp joined the game
+[20:23:27] [Server thread/INFO]: Saving and pausing game...
+[20:23:27] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:23:27] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:23:27] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:23:27] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Chaos
+[20:23:27] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Crystal
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Islands
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-VillageMania
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Extreme
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Utopia
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Spirit World
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Torment
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Mirror
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/the_aether
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[20:23:28] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[20:23:47] [Server thread/INFO]: Saving and pausing game...
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Chaos
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Crystal
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Islands
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-VillageMania
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Extreme
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Utopia
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Spirit World
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Torment
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Mirror
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/the_aether
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[20:23:48] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[20:24:13] [Server thread/INFO]: Saving and pausing game...
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Chaos
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Crystal
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Islands
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-VillageMania
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Extreme
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Utopia
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Spirit World
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Torment
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Mirror
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/the_aether
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[20:24:13] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[20:24:44] [Server thread/INFO]: Saving and pausing game...
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Chaos
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Crystal
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Islands
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-VillageMania
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Extreme
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Utopia
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Spirit World
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Torment
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Mirror
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/the_aether
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[20:24:44] [Server thread/INFO]: Stopping server
+[20:24:44] [Server thread/INFO]: Saving players
+[20:24:44] [Server thread/INFO]: Saving worlds
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Chaos
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Crystal
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Islands
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-VillageMania
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Extreme
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Dimension-Utopia
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Spirit World
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Torment
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Mirror
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/The Outer Lands
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Twilight Forest
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/the_aether
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Wyvern Lair
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[20:24:44] [Server thread/INFO]: Saving chunks for level 'New World'/Bedrock
+[20:24:46] [Client thread/INFO]: Stopping!

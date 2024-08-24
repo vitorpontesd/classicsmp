@@ -1,0 +1,13 @@
+filename = 'OreSpawn-1.7.10-20.3.jar'
+name = 'project-406171'
+side = 'both'
+
+[download]
+hash = 'd43dbe9a400dc8df06418da3e04d36422b2176d7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3053195
+project-id = 406171

@@ -1,0 +1,13 @@
+filename = 'KeyboardWizard-Legacy-Forge-1.7.10-1.0.0.jar'
+name = 'Keyboard Wizard: Legacy'
+side = 'both'
+
+[download]
+hash = '41aac895c0931b8636a4c0c65b1346ced022afb6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4030428
+project-id = 689007

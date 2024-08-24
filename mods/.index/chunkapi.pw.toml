@@ -1,0 +1,13 @@
+filename = 'chunkapi-mc1.7.10-0.5.1.jar'
+name = 'ChunkAPI'
+side = 'both'
+
+[download]
+hash = '230c27a800fd04c805530b2abd242ebc975784ae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5381431
+project-id = 844484

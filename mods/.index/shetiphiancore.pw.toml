@@ -1,0 +1,13 @@
+filename = 'ShetiPhianCore-1.7.10-3.0.0.jar'
+name = 'ShetiPhianCore'
+side = 'both'
+
+[download]
+hash = '3d027a293ae128d7f43c97eba4194baf709047cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2307704
+project-id = 71738

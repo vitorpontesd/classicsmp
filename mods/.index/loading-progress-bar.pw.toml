@@ -1,0 +1,13 @@
+filename = 'Loading-Progress-Bar-v1.0-mc1.7.10.jar'
+name = 'Loading Progress Bar'
+side = 'both'
+
+[download]
+hash = 'f0a8904172c1859d48c4bf714ccbf718847aa5df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3734569
+project-id = 602731

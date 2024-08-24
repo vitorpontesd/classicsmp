@@ -1,0 +1,13 @@
+filename = 'RadixCore-1.7.10-2.1.3-universal.jar'
+name = 'RadixCore'
+side = 'both'
+
+[download]
+hash = '36a196cdc6d34dd8c00b2ea5991c1a8720d8c300'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2323503
+project-id = 77286

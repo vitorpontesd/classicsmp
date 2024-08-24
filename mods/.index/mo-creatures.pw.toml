@@ -1,0 +1,13 @@
+filename = 'DrZharks MoCreatures Mod v6.3.1.zip'
+name = "Mo' Creatures"
+side = 'both'
+
+[download]
+hash = 'c3a1549ca563c9869f82c16b1ed753962c2940ec'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2232973
+project-id = 229260

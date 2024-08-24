@@ -1,0 +1,13 @@
+filename = 'ModernKeyBinding-Forge-1.7.10-2.1.0-mixinless.jar'
+name = 'Modern KeyBinding [Forge]'
+side = 'both'
+
+[download]
+hash = 'f49c17ad7386c226d362380a76d922437fafbbaa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4034362
+project-id = 686846

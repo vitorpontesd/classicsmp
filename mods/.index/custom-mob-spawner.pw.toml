@@ -1,0 +1,13 @@
+filename = 'CustomMobSpawner 3.3.0.zip'
+name = 'Custom Mob Spawner'
+side = 'both'
+
+[download]
+hash = 'd0423d6ebf7db86d597af60e3e3ff0157a309e23'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2232970
+project-id = 229261

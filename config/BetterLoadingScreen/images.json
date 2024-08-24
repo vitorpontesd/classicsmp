@@ -1,0 +1,107 @@
+[
+  {
+    "resourceLocation": "classicsmp:loadingscreen/bg.png",
+    "positionType": "TOP_CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 1,
+      "y": 1,
+      "width": 256,
+      "height": 256
+    },
+    "position": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0
+    },
+    "comment": "None"
+  },
+  {
+    "resourceLocation": "classicsmp:loadingscreen/logo.png",
+    "positionType": "CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    "position": {
+      "x": 2,
+      "y": 10,
+      "width": 256,
+      "height": 68
+    },
+    "comment": "None"
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "BOTTOM_CENTER",
+    "type": "DYNAMIC_TEXT_PERCENTAGE",
+    "position": {
+      "x": 0,
+      "y": 35,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "4DFFFFFF",
+    "comment": "The overall percentage progress"
+  },
+  {
+    "resourceLocation": "classicsmp:loadingscreen/pb.png",
+    "positionType": "BOTTOM_CENTER",
+    "type": "STATIC",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 200,
+      "height": 5
+    },
+    "position": {
+      "x": 0,
+      "y": 30,
+      "width": 200,
+      "height": 5
+    },
+    "comment": "None"
+  },
+  {
+    "resourceLocation": "classicsmp:loadingscreen/pb.png",
+    "positionType": "BOTTOM_CENTER",
+    "type": "DYNAMIC_PERCENTAGE",
+    "texture": {
+      "x": 0,
+      "y": 0,
+      "width": 200,
+      "height": 5
+    },
+    "position": {
+      "x": 0,
+      "y": 30,
+      "width": 200,
+      "height": 5
+    },
+    "comment": "None"
+  },
+  {
+    "resourceLocation": "",
+    "type": "CLEAR_COLOUR",
+    "colour": "242424",
+    "comment": "Background colour"
+  },
+  {
+    "resourceLocation": "textures/font/ascii.png",
+    "positionType": "BOTTOM_CENTER",
+    "type": "STATIC_TEXT",
+    "position": {
+      "x": 0,
+      "y": 10,
+      "width": 0,
+      "height": 0
+    },
+    "colour": "4DFFFFFF",
+    "text": "ClassicSMP 1.0",
+    "comment": "Text at the bottom of the screen"
+  }
+]

@@ -1,0 +1,13 @@
+filename = 'MCA-1.7.10-5.2.2-universal.jar'
+name = 'Minecraft Comes Alive (MCA)'
+side = 'both'
+
+[download]
+hash = 'd385d8f3bac3a25e181b0c5a4870d195b7de2b08'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2323497
+project-id = 59693

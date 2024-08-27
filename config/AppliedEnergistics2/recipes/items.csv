@@ -1563,7 +1563,7 @@ BigReactors:BRMultiblockCreativePart:1, Turbine Creative Steam Generator
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Diviner)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Diviner)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6562,43 +6562,43 @@ thaumicenergistics:thaumicenergistics.block.arcane.assembler, Arcane Assembler
 thaumicenergistics:thaumicenergistics.block.knowledge.inscriber, Knowledge Inscriber
 thaumicenergistics:thaumicenergistics.block.essentia.vibration.chamber, Essentia Vibration Chamber
 thaumicenergistics:thaumicenergistics.block.distillation.encoder, Distillation Pattern Encoder
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
 ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
-ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:infusedFarmland, Infused Farmland
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
 ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:warpGate, Celestial Gateway
 ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
-ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
+ThaumicTinkerer:infusedFarmland, Infused Farmland
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
+ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
+ThaumicTinkerer:wardSlab:0, Paving Slab of Warding
+ThaumicTinkerer:wardSlabFull:0, Paving Slab of Warding
 tinker_io:fuelInputMachine, Fuel Input Machine
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
@@ -12479,8 +12479,8 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Pattern 2 Bloc
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Activity Probe
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Destination Analyzer
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Matter Booster
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block

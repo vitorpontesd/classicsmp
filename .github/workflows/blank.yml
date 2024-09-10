@@ -1,0 +1,26 @@
+# This is a basic workflow to help you get started with Actions
+
+name: github-releases-to-discord
+
+# Controls when the workflow will run
+on:
+  release:
+    types: [published]
+
+jobs:
+  github-releases-to-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Github Releases To Discord
+        uses: SethCohen/github-releases-to-discord@v1.13.1
+        with:
+          webhook_url: ${{ secrets.WEBHOOK_URL }}
+          color: "2105893"
+          username: "Atualização do Modpack"
+          avatar_url: "https://cdn.discordapp.com/avatars/1269382163128909938/598478f7d6cf286f705487d525b4cb2e.webp"
+          content: "||@everyone||"
+          footer_title: "Changelog"
+          footer_icon_url: "https://cdn.discordapp.com/avatars/487431320314576937/bd64361e4ba6313d561d54e78c9e7171.png"
+          footer_timestamp: true

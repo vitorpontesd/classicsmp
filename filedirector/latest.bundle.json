@@ -1,0 +1,41 @@
+{
+	"url":
+	[
+		{
+			"url": "https://mymod.com/download/mod.jar"
+			"folder": "mods",
+			"installationPolicy":
+			{
+				"extract": true,
+				"deleteAfterExtract": true
+			}
+		},
+    {
+			"url": "https://mymod.com/download/mod.jar"
+			"folder": "mods",
+			"installationPolicy":
+			{
+				"extract": true,
+				"deleteAfterExtract": true
+			}
+		},
+    {
+			"url": "https://mymod.com/download/mod.jar"
+			"folder": "mods",
+			"installationPolicy":
+			{
+				"extract": true,
+				"deleteAfterExtract": true
+			}
+		},
+    {
+			"url": "https://mymod.com/download/mod.jar"
+			"folder": "mods",
+			"installationPolicy":
+			{
+				"extract": true,
+				"deleteAfterExtract": true
+			}
+		}
+	]
+}
